@@ -14,3 +14,5 @@ How to run CardinalFinder
   - Open gradle sidebar
   - Locate the application folder
   - Double click "Run"
+
+WORK IN PROGRESS
